@@ -62,7 +62,7 @@ If you find some errors or have any questions, please contact me at any time ;)
 
 ### 서식 지정자 활용*
 |서식 지정자|의미|활용|
-|--|--|--|--|
+|--|--|--|
 |%o|변수값을 8진수로 출력|printf("%o", a);|
 |%x / %X|변수값을 16진수로 출력 / 대문자 16진수로 출력|printf("%x", a);|
 |%.nf|소수점 n자리까지 실수값 반올림 출력|printf("%.3f", a);|
