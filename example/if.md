@@ -51,8 +51,8 @@ a의 값은 85이므로 1번 조건(90 이상)에는 맞지 않습니다. else i
 > 너무 중첩이 많을 경우 프로그램이 복잡해지는 원인이 될 수 있습니다 :(
 ```cpp
 int myBirthday = 24;        //정수형 변수 myBirthday를 선언하고 10으로 초기화 
-if(myBirthday > 10){        //만약 myBirthday가 5보다 크다면(1차 조건)
-	if(myBirthday > 20)     //	만약 myBirthday가 7보다 크다면(2차 조건)
+if(myBirthday > 10){        //만약 myBirthday가 10보다 크다면(1차 조건)
+	if(myBirthday > 20)     //	만약 myBirthday가 20보다 크다면(2차 조건)
 		printf("20보다 큼"); //		20보다 큼 출력
 	else					//	아니라면
 		printf("10보다 큼"); //		10보다 큼 출력
