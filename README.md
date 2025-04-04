@@ -25,7 +25,7 @@ If you find some errors or have any questions, please contact me at any time ;)
 
 |제어 문자|의미|활용|출력 결과|
 |--|--|--|--|
-|\n|개행`new line,줄바꿈,한 줄 띄우기`|printf("hello \nwolrd|hello<br>world
+|\n|개행`new line,줄바꿈,한 줄 띄우기`|printf("hello \nwolrd);|hello<br>world
 |\\\ |\\를 출력|printf("\\\\");| \\ |
 |\\"또는\\'|따옴표 출력|printf("\\"");|"|
 -------------
