@@ -1,7 +1,8 @@
 # cpp_memo
 If you find some errors or have any questions, please contact me at any time ;)
 
-본 문서는 https://stackedit.io/app# 또는 markdown문법을 지원하는 뷰어로 보는것을 권장합니다.
+
+
 # 자료형의 종류
 |**정수형**|**int**|**부호 있는 10진 정수(4byte)**|-2^31^ ~(2^31^ -1)|
 |--|--|--|--|
