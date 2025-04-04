@@ -3,6 +3,7 @@ If you find some errors or have any questions, please contact me at any time ;)
 
 # 순차 구조
 > - 순서대로 실행
+> 
 > 특별한 경우가 아닌 이상  C언어는 **위에서 아래로 실행됩니다.**
 > 만약 코드가 a=1; a=2;와 같은 순서로 작성되었다면
 > 변수 a에 저장되는 값이 순차적으로 변하게됩니다.
