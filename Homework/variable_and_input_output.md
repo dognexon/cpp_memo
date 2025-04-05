@@ -312,9 +312,9 @@
 >int main()
 >{
 >	int a = 7, b, c;
-	>	scanf("%d", &b); // 20 입력
-	>	scanf("%d", &c); // 21 입력
-	>	pritnf("%d %d %d", a, b, c);
+>	scanf("%d", &b); // 20 입력
+>	scanf("%d", &c); // 21 입력
+>	pritnf("%d %d %d", a, b, c);
 >	return 0;
 >}
 >```
