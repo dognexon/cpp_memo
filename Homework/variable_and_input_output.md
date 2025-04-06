@@ -5,7 +5,7 @@
 >int main()
 >{
 >	printf("Good luck hope full!");
->   return 0:
+>   return 0;
 >}
 >```
 >output? :
